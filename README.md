@@ -4,4 +4,4 @@ This is a github repository demonstrating ensemble ResHedNet training associated
 
 The Jupyter Notebook demonstrates the ensemble-ResHedNet method. 
 
-The video shows a PFM measurement, where the ResHedNet converts the PFM domain image to ferroelastic wall image in the real-time. 
+The video shows a PFM measurement, where the ResHedNet converts the PFM domain image to ferroelastic wall image in the real-time. Please note that this video is speed up, the measurement speed is slower than this. 
